@@ -1,2 +1,2 @@
 # GWSlotMachine
-![image](https://imgur.com/a/QljYC)
+DEMO:https://imgur.com/VXzcLQh
